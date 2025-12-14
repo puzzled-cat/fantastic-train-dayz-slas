@@ -16,3 +16,7 @@ A DayZ server hosted on nitrado.net
 - inf. stamina
 - custom starting loadout
 - map shows player position
+- increased zombie count 1000 > 1250
+- decreased animal spawn 200 > 150
+- 5s login / logout timers
+- lootDamageMin/Max set to 0.0
