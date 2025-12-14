@@ -7,7 +7,7 @@
 		name="VehicleGoodyBag">
 		<pos x="8234.87" z="9028.06" a="-1" />
 	</event>
-	<event name="ItemGoodyBag">
+	<event name="ItemBarrel_Yellow">
 		<pos x="8222.53" z="9018.31" a="-1" />
 	</event>
 	<event name="VehicleCivilianSedan">
