@@ -23,3 +23,4 @@ A DayZ server hosted on nitrado.net
 - restarts every 4hr
 - Cars spawn full and with cargo
 - Gorka spawn
+- Custom pump location at zenit
