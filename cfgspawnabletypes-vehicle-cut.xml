@@ -41,6 +41,51 @@
     <attachments chance="1.00">
         <item name="HatchbackTrunk" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="OffroadHatchback_Blue">
     <attachments chance="1.00">
@@ -85,6 +130,51 @@
     <attachments chance="1.00">
         <item name="HatchbackTrunk_Blue" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="OffroadHatchback_White">
     <attachments chance="1.00">
@@ -128,6 +218,51 @@
     </attachments>
     <attachments chance="1.00">
         <item name="HatchbackTrunk_White" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
     </attachments>
 </type>
 <type name="Offroad_02">
@@ -175,6 +310,51 @@
     </attachments>
     <attachments chance="1.00">
         <item name="CarBattery" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
     </attachments>
 </type>
 <!-- -->
@@ -227,6 +407,51 @@
     <attachments chance="1.00">
         <item name="CivSedanTrunk" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="CivilianSedan_Wine">
     <attachments chance="1.00">
@@ -277,6 +502,51 @@
     <attachments chance="1.00">
         <item name="CivSedanTrunk_Wine" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="CivilianSedan_Black">
     <attachments chance="1.00">
@@ -326,6 +596,51 @@
     </attachments>
     <attachments chance="1.00">
         <item name="CivSedanTrunk_Black" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
     </attachments>
 </type>
 <!-- -->
@@ -378,6 +693,51 @@
     <attachments chance="1.00">
         <item name="Hatchback_02_Trunk" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="Hatchback_02_Black">
     <attachments chance="1.00">
@@ -428,6 +788,51 @@
     <attachments chance="1.00">
         <item name="Hatchback_02_Trunk_Black" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="Hatchback_02_Blue">
     <attachments chance="1.00">
@@ -477,6 +882,51 @@
     </attachments>
     <attachments chance="1.00">
         <item name="Hatchback_02_Trunk_Blue" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
     </attachments>
 </type>
 <!-- -->
@@ -529,6 +979,51 @@
     <attachments chance="1.00">
         <item name="Sedan_02_Trunk" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="Sedan_02_Red">
     <attachments chance="1.00">
@@ -579,6 +1074,51 @@
     <attachments chance="1.00">
         <item name="Sedan_02_Trunk_Red" chance="1.00" />
     </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
 </type>
 <type name="Sedan_02_Grey">
     <attachments chance="1.00">
@@ -628,5 +1168,50 @@
     </attachments>
     <attachments chance="1.00">
         <item name="Sedan_02_Trunk_Grey" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CanisterGasoline" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="WaterBottle" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Blowtorch" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="LargeGasCanister" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="CarTent" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PortableGasStove" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="Pot" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
+    </attachments>
+    <attachments chance="1.00">
+        <item name="PetrolLighter" chance="1.00" />
     </attachments>
 </type>
