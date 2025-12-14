@@ -24,9 +24,8 @@
 
         <generator_posbubbles>
             <!-- Please note; these coordinates are for map: chernarus -->
-            <pos x="3204" z="5184" />
-            <pos x="3156" z="5207" />
-            <pos x="3225" z="5162" />
+            <pos x="9381" z="8851" />
+            <pos x="9386" z="8823" />
         </generator_posbubbles>
     </fresh>
     <hop></hop>
