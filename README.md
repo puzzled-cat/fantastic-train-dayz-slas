@@ -27,3 +27,4 @@ A DayZ server hosted on nitrado.net
 - Custom Ada at Zenit
 - Car Repair kit at Zenit
 - BACKUP OF ABOVE FEATURES ^
+- custom plank pile outside gorka
