@@ -7,6 +7,9 @@
 		name="VehicleGoodyBag">
 		<pos x="8234.87" z="9028.06" a="-1" />
 	</event>
+	<event name="ItemGoodyBag">
+		<pos x="8222.53" z="9018.31" a="-1" />
+	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />

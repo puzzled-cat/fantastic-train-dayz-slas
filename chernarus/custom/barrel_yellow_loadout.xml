@@ -1,0 +1,38 @@
+<type name="Barrel_Yellow">
+	<cargo chance="1.00">
+		<item name="EpoxyPutty" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="EpoxyPutty" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="DuctTape" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="DuctTape" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="Blowtorch" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="LargeGasCanister" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="LargeGasCanister" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="TireRepairKit" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="Screwdriver" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="CarBattery" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="CarRadiator" />
+	</cargo>
+	<cargo chance="1.00">
+		<item name="SparkPlug" />
+	</cargo>
+</type>
