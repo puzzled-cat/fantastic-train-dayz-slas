@@ -17,6 +17,12 @@
 	<event name="ItemBarrel_Yellow">
 		<pos x="8173.65" z="9084.69" a="18" />
 	</event>
+	<event name="ItemPlanks1">
+		<pos x="10233.43" z="8911.90" a="11" />
+		<pos x="10233.93" z="8910.59" a="15" />
+		<pos x="10234.34" z="8910.04" a="18" />
+		<pos x="10237.24" z="8906.60" a="18" />
+	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />
