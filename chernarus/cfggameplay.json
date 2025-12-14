@@ -49,9 +49,7 @@
 	},
 	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": [
-			"custom/Emir_Food_Stand.json"
-		],
+		"objectSpawnersArr": [],
 		"environmentMinTemps": [
 			-3,
 			-2,
