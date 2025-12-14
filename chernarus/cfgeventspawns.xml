@@ -6,9 +6,16 @@
 	<event
 		name="VehicleGoodyBag">
 		<pos x="8234.87" z="9028.06" a="-1" />
+		<pos x="8226.31" z="9051.06" a="-1" />
+		<pos x="8226.81" z="9050.40" a="-1" />
+		<pos x="8228.43" z="9036.50" a="-1" />
+		<pos x="8228.32" z="9036.52" a="-1" />
+		<pos x="8225.43" z="9032.34" a="-1" />
+		<pos x="8161.20" z="9094.85" a="-1" />
+		<pos x="8162.75" z="9097.26" a="-1" />
 	</event>
 	<event name="ItemBarrel_Yellow">
-		<pos x="8222.53" z="9018.31" a="-1" />
+		<pos x="8173.65" z="9084.69" a="18" />
 	</event>
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
@@ -67,7 +74,8 @@
 		<pos x="6916.957519" z="3421.918457" a="296.656128" />
 		<pos x="2529.212891" z="5041.117676" a="56.153545" />
 	</event>
-	<event name="VehicleSedan02">
+	<event
+		name="VehicleSedan02">
 		<pos x="10569.078124" z="2231.893555" a="233.038239" />
 		<pos x="11820.751953" z="9202.173828" a="255.157227" />
 		<pos x="12303.65625" z="9480.824219" a="268.099976" />
@@ -128,7 +136,8 @@
 		<pos x="6811.413574" z="2487.961426" a="232.284943" />
 		<pos x="6535.591797" z="2388.384522" a="310.934296" />
 	</event>
-	<event name="VehicleHatchback02">
+	<event
+		name="VehicleHatchback02">
 		<pos x="9896.289063" z="1841.832641" a="88.544548" />
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />
@@ -186,7 +195,8 @@
 		<pos x="6916.957519" z="3421.918457" a="296.656128" />
 		<pos x="2529.212891" z="5041.117676" a="56.153545" />
 	</event>
-	<event name="StaticHeliCrash">
+	<event
+		name="StaticHeliCrash">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="558.859619" z="12918.953125" a="-1" />
 		<pos x="154.159332" z="13299.455078" a="-1" />
@@ -475,7 +485,8 @@
 		<pos x="12195.000000" z="13831.000000" />
 	</event>
 	<event name="Loot" />
-	<event name="VehicleOffroadHatchback">
+	<event
+		name="VehicleOffroadHatchback">
 		<pos x="10967.148438" z="5494.307616" a="125.181313" />
 		<pos x="11534.269531" z="5014.221679" a="150.176453" />
 		<pos x="12896.135743" z="4453.044923" a="334.011871" />
@@ -558,7 +569,8 @@
 		<pos x="7183.526854" z="7541.604005" a="250.295166" />
 		<pos x="1218.171874" z="6215.999023" a="181.061844" />
 	</event>
-	<event name="VehicleOffroad02">
+	<event
+		name="VehicleOffroad02">
 		<pos x="801.261841" z="1919.863403" a="6.049285" />
 		<pos x="1570.475952" z="14051.657227" a="452.782379" />
 		<pos x="1652.649902" z="14209.893555" a="451.742462" />
@@ -581,7 +593,8 @@
 		<pos x="10425.445313" z="5837.930664" a="277.322205" />
 		<pos x="11018.029297" z="13380.626953" a="220.254715" />
 	</event>
-	<event name="StaticPoliceCar">
+	<event
+		name="StaticPoliceCar">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 		<pos x="1846.316407" z="11492.649414" a="336.442993" />
 		<pos x="1495.972169" z="11127.56543" a="308.914001" />
@@ -1181,7 +1194,8 @@
 		<pos x="14183.026367" z="13336.736328" a="7.738220" />
 		<pos x="14184.242188" z="13337.792969" a="7.738220" />
 	</event>
-	<event name="VehicleTruck01">
+	<event
+		name="VehicleTruck01">
 		<pos x="2906.678223" z="9736.077148" a="320.966431" />
 		<pos x="1577.859375" z="10434.791992" a="80.463913" />
 		<pos x="4986.84033199999" z="12949.183594" a="272.756622" />
@@ -1423,7 +1437,8 @@
 		<pos x="673.779" z="8747.024" a="0" y="194.405" group="Train_Mil_Myshkino" />
 		<pos x="3262.817" z="12430.286" a="0" y="219.495" group="Train_Mil_Petrovka" />
 	</event>
-	<event name="StaticMilitaryConvoy">
+	<event
+		name="StaticMilitaryConvoy">
 		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />
 		<pos x="8434.497" z="14003.119" a="0" y="205.349" group="Abandoned_Arsenovo" />
 		<pos x="5272.803" z="2085.858" a="0" y="5.600" group="Abandoned_Balota" />
@@ -1449,7 +1464,8 @@
 		<pos x="2421.141" z="13608.731" a="0" y="301.707" group="Supply_Tisy" />
 		<pos x="332.324" z="3059.927" a="0" y="99.673" group="Supply_Volchiypik" />
 	</event>
-	<event name="StaticPoliceSituation">
+	<event
+		name="StaticPoliceSituation">
 		<zone smin="0" smax="0" dmin="1" dmax="2" r="20" />
 		<pos x="11909.426" z="6432.040" a="0" y="49.747" group="Block_Dolina" />
 		<pos x="10400.112" z="2237.542" a="0" y="5.930" group="Block_Elektro" />
@@ -1492,19 +1508,24 @@
 		<pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor" />
 	</event>
 
-	<event name="VehicleTransitBus" />
+	<event
+		name="VehicleTransitBus" />
 	<event name="InfectedVillage" />
 	<event name="InfectedSolitude" />
-	<event name="InfectedArmy" />
+	<event
+		name="InfectedArmy" />
 	<event name="InfectedCity" />
 	<event name="InfectedMedic" />
-	<event name="InfectedPolice" />
+	<event
+		name="InfectedPolice" />
 	<event name="InfectedFirefighter" />
 	<event name="InfectedPrisoner" />
-	<event name="AnimalDeer" />
+	<event
+		name="AnimalDeer" />
 	<event name="AnimalCow" />
 	<event name="AnimalSheep" />
-	<event name="AnimalRoeDeer" />
+	<event
+		name="AnimalRoeDeer" />
 	<event name="AnimalWolf" />
 	<event name="AnimalWildBoar" />
 </eventposdef>
