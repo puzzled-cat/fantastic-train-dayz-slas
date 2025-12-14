@@ -1,0 +1,36 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Misc_Well_Pump_Blue",
+            "pos": [
+                8223.56,
+                9017.82,
+                14
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_FuelStation_Feed",
+            "pos": [
+                8217.59,
+                9028.55,
+                16
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
