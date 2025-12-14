@@ -24,8 +24,12 @@
 
         <generator_posbubbles>
             <!-- Please note; these coordinates are for map: chernarus -->
-            <pos x="9381" z="8851" />
-            <pos x="9386" z="8823" />
+            <!--GORKA-->
+            <!-- <pos x="9381" z="8851" />
+            <pos x="9386" z="8823" /> -->
+            <!--Radio
+            Zenit-->
+            <pos x="8044" z="9333" />
         </generator_posbubbles>
     </fresh>
     <hop></hop>
