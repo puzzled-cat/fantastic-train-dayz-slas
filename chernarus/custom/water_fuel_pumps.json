@@ -3,9 +3,9 @@
         {
             "name": "Land_Misc_Well_Pump_Blue",
             "pos": [
-                X,
-                Y,
-                Z
+                8223.56,
+                9017.82,
+                14
             ],
             "ypr": [
                 0.0,
@@ -19,9 +19,9 @@
         {
             "name": "Land_FuelStation_Feed",
             "pos": [
-                X,
-                Y,
-                Z
+                8217.59,
+                9028.55,
+                16
             ],
             "ypr": [
                 0.0,
