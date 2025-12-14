@@ -17,21 +17,21 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="Land_Misc_Well_Pump_Yellow" />
         </children>
     </event>
-    <event name="StaticPump2">
+    <event name="VehicleGoodyBag">
         <nominal>1</nominal>
         <min>1</min>
         <max>1</max>
-        <lifetime>3888000</lifetime>
-        <restock>0</restock>
+        <lifetime>2500</lifetime>
+        <restock>1</restock>
         <saferadius>0</saferadius>
         <distanceradius>0</distanceradius>
-        <cleanupradius>100</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="0" />
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>fixed</position>
-        <limit>mixed</limit>
+        <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Land_FuelStation_Feed" />
+            <child lootmax="0" lootmin="0" max="1" min="1" type="OffroadHatchback_Blue" />
         </children>
     </event>
     <event
