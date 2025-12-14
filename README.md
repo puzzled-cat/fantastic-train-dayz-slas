@@ -13,14 +13,17 @@ A DayZ server hosted on nitrado.net
 - Enabled cfgconfig.json
 
 ### XML / Config Changes:
-- inf. stamina
-- custom starting loadout
-- map shows player position
-- increased zombie count 1000 > 1250
-- decreased animal spawn 200 > 150
+- Inf. stamina
+- Custom starting loadout
+- Map shows player position
+- Increased zombie count 1000 > 1250
+- Decreased animal spawn 200 > 150
 - 5s login / logout timers
 - lootDamageMin/Max set to 0.0
-- restarts every 4hr
-- Cars spawn full and with cargo
+- Restarts every 4hr
+- Cars and Trucks spawn full and with cargo
 - Gorka spawn
-- Custom pump location at zenit
+- Custom pump location at Zenit
+- Custom Ada at Zenit
+- Car Repair kit at Zenit
+- BACKUP OF ABOVE FEATURES ^
