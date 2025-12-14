@@ -8,6 +8,9 @@
 	},
 	"PlayerData": {
 		"disablePersonalLight": true,
+		"spawnGearPresetFiles": [
+			"custom/DZB_Loadout_1.json"
+		],
 		"StaminaData": {
 			"sprintStaminaModifierErc": 0,
 			"sprintStaminaModifierCro": 0,
