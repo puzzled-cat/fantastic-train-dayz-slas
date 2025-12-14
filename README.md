@@ -20,3 +20,4 @@ A DayZ server hosted on nitrado.net
 - decreased animal spawn 200 > 150
 - 5s login / logout timers
 - lootDamageMin/Max set to 0.0
+- restarts every 4hr
