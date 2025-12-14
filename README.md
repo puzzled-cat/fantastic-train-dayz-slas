@@ -13,4 +13,6 @@ A DayZ server hosted on nitrado.net
 - Enabled cfgconfig.json
 
 ### XML / Config Changes:
-- 
+- inf. stamina
+- custom starting loadout
+- map shows player position
