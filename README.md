@@ -22,5 +22,4 @@ A DayZ server hosted on nitrado.net
 - lootDamageMin/Max set to 0.0
 - restarts every 4hr
 - Cars spawn full and with cargo
-- Custom food stand at GM
-- Spawn near zeleno
+- Gorka spawn

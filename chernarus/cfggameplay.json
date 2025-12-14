@@ -49,7 +49,9 @@
 	},
 	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": [],
+		"objectSpawnersArr": [
+			"custom/water_fuel_pumps.json"
+		],
 		"environmentMinTemps": [
 			-3,
 			-2,
